@@ -1,0 +1,5 @@
+a.out
+*.o
+gnl_*
+main.c
+test.txt
